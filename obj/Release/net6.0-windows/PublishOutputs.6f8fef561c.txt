@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\REMS\REMS.exe
+C:\Users\user\source\repos\REMS\REMS.dll
+C:\Users\user\source\repos\REMS\REMS.deps.json
+C:\Users\user\source\repos\REMS\REMS.runtimeconfig.json
+C:\Users\user\source\repos\REMS\REMS.pdb
+C:\Users\user\source\repos\REMS\System.Data.SqlClient.dll
+C:\Users\user\source\repos\REMS\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\REMS\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\REMS\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\REMS\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\REMS\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\REMS.exe
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\REMS.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\REMS.deps.json
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\REMS.runtimeconfig.json
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\REMS.pdb
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\source\repos\REMS\REMS\bin\Release\net6.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
